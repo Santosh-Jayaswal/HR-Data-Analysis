@@ -1,5 +1,8 @@
 # Human Resource Dataset Analysis Report
 
+![Dashboard](https://github.com/Santosh-Jayaswal/HR-Data-Analysis/assets/17638311/7b23944d-4c92-49e0-bb85-811fe6369f62)
+
+
 ### Overview
 In this report, I present a comprehensive analysis of a Human Resource dataset. This analysis focuses on various aspects of employee attrition, gender diversification, department-wise attrition, age group diversity, and hiring sources.
 
