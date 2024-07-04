@@ -21,10 +21,10 @@ The organization has a predominantly young workforce, with over 70% of employees
 **Hiring Sources**
 LinkedIn and Indeed have proven to be reliable sources for hiring employees. The analysis shows that fewer employees hired through these job boards have left the organization.
 
-# Conclusion
+### Conclusion
 The analysis of the Human Resource dataset provides valuable insights into employee attrition and workforce diversity. Key takeaways include a high attrition rate, a higher count of female employees, significant attrition in the Production department, a young workforce, and the reliability of LinkedIn and Indeed as hiring sources.
 
-# Recommendations
+### Recommendations
 To ensure that employees remain with the company, the following strategies are recommended:
 
 1.  Improve Retention in the Production Department: Given the high attrition rate in this department, it is essential to identify and address the underlying issues, such as workload, working conditions, or career progression opportunities.
