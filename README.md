@@ -1,6 +1,6 @@
-#Human Resource Dataset Analysis Report
+# Human Resource Dataset Analysis Report
 
-###Overview
+### Overview
 In this report, I present a comprehensive analysis of a Human Resource dataset. This analysis focuses on various aspects of employee attrition, gender diversification, department-wise attrition, age group diversity, and hiring sources.
 
 ###Key Findings
